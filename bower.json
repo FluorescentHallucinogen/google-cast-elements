@@ -13,6 +13,7 @@
     "google",
     "polymer"
   ],
+  "license": "Apache-2.0",
   "dependencies": {
     "cast-button-polymer": "googlecast/cast-button-polymer",
     "cast-controller-bar-polymer": "googlecast/cast-controller-bar-polymer",

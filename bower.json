@@ -1,0 +1,26 @@
+{
+  "name": "google-cast-elements",
+  "description": "Google Cast Polymer web components collection",
+  "keywords": [
+    "element-collection",
+    "web-components",
+    "webcomponents",
+    "web-component",
+    "webcomponent",
+    "google-cast",
+    "googlecast",
+    "cast",
+    "google",
+    "polymer"
+  ],
+  "dependencies": {
+    "cast-button-polymer": "googlecast/cast-button-polymer",
+    "cast-controller-bar-polymer": "googlecast/cast-controller-bar-polymer",
+    "cast-dialog-polymer": "googlecast/cast-dialog-polymer",
+    "cast-manager-polymer": "googlecast/cast-manager-polymer",
+    "cast-player-bar-polymer": "googlecast/cast-player-bar-polymer",
+    "cast-theme-polymer": "googlecast/cast-theme-polymer",
+    "cast-video-polymer": "googlecast/cast-video-polymer",
+    "cast-volume-controller-polymer": "googlecast/cast-volume-controller-polymer"
+  }
+}
